@@ -1,0 +1,11 @@
+{
+  "name": "sofascore-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/st.js c=cricket d=2025-08-24"
+  },
+  "dependencies": {
+    "puppeteer": "^23.0.0"
+  }
+}
